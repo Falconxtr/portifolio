@@ -1,0 +1,85 @@
+/* Evento OnClick */
+.bg-branco {
+    background-color: #fff;
+    color: #445964;
+  }
+  
+  .bg-branco .secao-span {
+    color: #263138;
+  }
+  
+  .bg-preto {
+    background-color: #252525;
+    color: #ebeaea;
+  }
+  
+  .bg-preto .secao-span {
+    color: #285772b2;
+  }
+  
+  .bg-branco2 {
+    background-color: #f6f8fc;
+    color: #445964;
+  }
+  
+  .bg-branco2 .secao-span {
+    color: #263138;
+  }
+  
+  .bg-preto2 {
+    background-color: #393838;
+    color: #ebeaea;
+  }
+  
+  .bg-preto2 .secao-span {
+    color: #285772b2;
+  }
+  
+  /* Seção Topo */
+  .topo {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 95px;
+    height: 80px;
+    position: fixed;
+    width: 100%;
+    top: 0;
+    z-index: 1;
+  }
+  
+  .topo h1 {
+    font-size: 36px;
+    margin-left: 15px;
+  }
+  
+  .topo-nome {
+    display: flex;
+    align-items: center;
+  }
+  
+  .topo-nome button {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 40px;
+    height: 40px;
+    border: 2px solid #445964;
+    border-radius: 25px;
+    cursor: pointer;
+    background-color: transparent;
+  }
+  
+  .topo nav {
+    width: 550px;
+    display: flex;
+    justify-content: space-around;
+  }
+  
+  .topo nav a {
+    text-decoration: none;
+    color: inherit;
+    font-weight: bold;
+    font-size: 20px;
+  }
+  

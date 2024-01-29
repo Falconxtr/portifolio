@@ -1,0 +1,19 @@
+/* Seção Sobre */
+.secao-sobre {
+    margin: 0 auto;
+    text-align: center;
+    padding: 85px 15px 85px 15px; 
+  } 
+  
+  .secao-sobre h2 {
+    font-size: 38px;
+    margin-bottom: 25px;
+  }
+  
+  .secao-sobre p {
+    max-width: 900px;
+    margin: 0 auto;
+    font-size: 18px;
+    text-align: center;
+    line-height: 35px;
+  }

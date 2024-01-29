@@ -1,0 +1,20 @@
+/* Seção Experiência */
+.secao-experiencia {
+    padding: 55px 15px 35px 15px;
+    margin: 0 auto;
+  }
+  
+  .secao-experiencia h2 {
+    font-size: 38px;
+    width: 200px;
+    margin-bottom: 25px;
+  }
+  
+  .secao-experiencia-cards {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    gap: 10px;
+    max-width: 820px;
+    margin: 0 auto;
+  }

@@ -1,0 +1,38 @@
+/* Seção Banner */
+.secao-banner {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 80px auto 0 auto;
+    height: 600px;
+    padding: 0 15px;
+    position: relative;
+  }
+  
+  .secao-banner-texto p{
+    font-size: 24px;
+  }
+  
+  .secao-banner-texto h1 {
+    font-size: 52px;
+  }
+  
+  .secao-banner div img {
+    height: 500px;
+    width: 600px;
+  }
+  
+  .secao-banner-links {
+    margin-top: 25px;
+    position: absolute;
+    bottom: 50px;
+  }
+  
+  .secao-banner-links a {
+    color: inherit;
+  }
+  
+  .secao-banner-links a:last-child  {
+    margin-left: 10px;
+  }
+  
